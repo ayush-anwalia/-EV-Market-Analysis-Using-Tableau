@@ -10,7 +10,7 @@ Key Insights: SUV Category leads, South Asia is top Market Region.
 ## 🔗 Live Project Links
 - **Tableau Public Dashboard (Main Demo):** https://public.tableau.com/app/profile/ayush.anwalia/viz/EV_Market_Analysis_Ayush/Dashboard1
 - **GitHub Repository:** https://github.com/ayush-anwalia/-EV-Market-Analysis-Using-Tableau
-- **Demo Video:** (Google Drive link yaha baad me add kar dena)
+- **Demo Video:** https://drive.google.com/file/d/1l1FPlNUq_MUBGADCE14UDNpbVNu5T9TU/view?usp=sharing
 
 ## 🛠️ Tools Used
 - Tableau Public
